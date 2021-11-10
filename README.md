@@ -6,10 +6,10 @@
 - [@Ahmadameenm](https://t.me/Ahmadameenm)
 
 <p align="center">
-  <a href="https://github.com/Ameen-ahd/JADUmon/fork">
+  <a href="https://github.com/lucabotfork/JADUBot">
     
   </a>
-  <a href="https://github.com/Ameen-ahd/JADUmon
+  <a href="https://github.com/lucabotfork/JADUBot
   </a>
 </p>
 
